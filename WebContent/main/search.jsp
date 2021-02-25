@@ -16,15 +16,9 @@
 <head>
 <meta charset="UTF-8">
 <title>검색결과</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="jquery.js"></script>
-    <script src="js/jquery.bxslider.min.js"></script>
-    <script src="js/slide.js"></script>
     <link rel="stylesheet" href="css/jquery.bxslider.min.css">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/shape.css">
-
-
 </head>
 <body>
  <div id="wrapper">

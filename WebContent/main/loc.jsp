@@ -12,9 +12,6 @@
 <link rel="stylesheet" href="../css/shape.css" type="text/css">
 <link rel="stylesheet" href="../css/common.css" type="text/css">
 <link rel="stylesheet" href="../css/loc.css" type="text/css">    
-<script src="js/slide.js"></script>
-<script src="js/link.js"></script>    
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 function fetchPage(name){
     fetch(name).then(function(response){
@@ -251,9 +248,6 @@ function fetchPage(name){
                     </tr>
                 </tbody>
             </table>
-                
-               
-
            </div>
 
        </div>

@@ -82,10 +82,6 @@
 	color:white;
 }
 
-
-
-
-
 </style>
 </head>
   <body>
@@ -140,6 +136,5 @@
     </div>
     
     <script src="../src/login.js"></script>
-    <script src="../js/link.js"></script>
   </body>
 </html>

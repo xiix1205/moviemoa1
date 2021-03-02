@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
 <%@page import = "project.MainBoardBean" %>
 <%@page import = "project.BestBoardBean" %>
 <%@page import = "project.MovieBean" %>
@@ -57,13 +56,11 @@
 			}
 		}
 	
-	
 	if(request.getParameter("nowPage")!=null){
 		nowPage = Integer.parseInt(request.getParameter("nowPage"));
 	}
 	
-	
-	 String id = (String)session.getAttribute("idKey");
+	String id = (String)session.getAttribute("idKey");
 %>
 
 <!DOCTYPE html>
@@ -326,8 +323,6 @@
                   </section>
                 </div>    
             
-        
-           
             <div id="footer">
                   <article>
               copyright@<br><br><hr><br>MOVIE주식회사: 인천광역시 서구 서곶로 284 새터빌딩 4층 연희직업전문학교<p/>대표전화: 032-555-1111&nbsp;/&nbsp;Email: movie@gmail.com 

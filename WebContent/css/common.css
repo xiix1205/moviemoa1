@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
  
 /* 湲�瑗� Roboto, Noto Sans KR */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500&display=swap');
@@ -18,7 +20,7 @@ body{
 
 
 
-/*      �뿤�뜑      */
+/*      헤더      */
 
 #header{
     position: relative;
@@ -41,7 +43,7 @@ body{
 
 
 
-/*   濡쒓렇�씤, 寃��깋  */   
+/*   로그인,검색   */   
 
 .login{
     position: relative;
@@ -95,7 +97,7 @@ body{
 
 
 
-/*      �럹�씠吏�硫붾돱       */
+/*      네비게이션       */
             
 #nav{
 	position: absolute;
@@ -130,7 +132,7 @@ body{
 
 
 
-/*      �뫖�꽣      */
+/*      푸터      */
          
 #footer{     
     width: 100%;
@@ -147,7 +149,7 @@ body{
 
 
 
-/* �꽌移섑럹�씠吏� */
+/* 통합검색 페이지 */
 
 #search_wrap{
     background-color:#fff;

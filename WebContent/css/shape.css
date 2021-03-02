@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
  body{
     padding:0;
     margin:0;
@@ -27,9 +29,7 @@ a:link, a:visited{
 
 
 
-
-
-/*      硫붿씤   */
+/*    메인페이지   */
           
 #main{
     position: relative;
@@ -337,7 +337,7 @@ a:link, a:visited{
 
 
 
-/*  �궗�씠�뱶�뒳�씪�씠�뱶    */
+/*  상단 슬라이드    */
 
 #slider_wrap{
     width: 100%;
